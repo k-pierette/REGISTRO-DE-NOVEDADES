@@ -1,7 +1,7 @@
 # REGISTRO-DE-NOVEDADES
-Formulario web con tabla editable, almacenamiento local y personalizable. Ideal para monitoreo, agencias gubernamentales y registro de novedades. Botón de pantalla completa para visualización detallada. Interfaz intuitiva y fácil de usar. Versátil y potente.
+Formulario web con tabla editable y altamente personalizable, almacenamiento local  sin la necesidad de vincular una base de datos. Ideal para centrales de monitoreo, agencias gubernamentales y empresas que requieran un registro de novedades. Botón de pantalla completa para visualización detallada. Interfaz intuitiva y fácil de usar. Versátil y potente.
 
-DONACIONES 
+DONACIONES AL CREADOR DE ESTA PODEROSA HERRAMIENTA:
 
 BINANCE BTC: 138KjGjx7LqyNWAZgctM9WhywARwbzPVQQ
 BINANCE BNB Smart Chain (BEP20): 0x56e002ea1ab99f4cafaaf05a24cb454638bf6a69
@@ -22,3 +22,18 @@ En resumen, este formulario web con tabla editable y almacenamiento local es una
 IMAGENES:
 
 ![image](https://user-images.githubusercontent.com/129064267/232253583-496794b6-a317-4b68-9ed4-286e9144efd5.png)
+
+
+DETALLES EN INGLES:
+
+The web form I'm describing is a powerful online data management tool. It features an editable table that allows you to organize and manipulate data efficiently and easily. The table is fully customizable, which means you can tailor it to your specific needs.
+
+One standout feature of this form is its local storage capability. This means that the data you enter into the table will be saved on the device you are using, ensuring enhanced security and privacy. Additionally, you can also back up the stored data to the cloud to ensure your data is always protected.
+
+This form is ideal for a wide variety of use cases. It's perfect for monitoring centers, government agencies, and companies with a need for tracking and recording updates and events. You can use it to manage and monitor events, check-in and check-out records, activity tracking, or any other type of information that needs efficient management.
+
+The form also includes a fullscreen button, allowing you to expand the content to a fullscreen view, which is especially useful for situations where you need a wide and detailed view of the data. This makes it an ideal tool for real-time monitoring, presentations, or data analysis in critical situations.
+
+The user interface is intuitive and user-friendly, allowing users to navigate the table and make modifications quickly and easily. You can add, edit, and delete rows and columns, as well as search and filter data to quickly find the information you need.
+
+In summary, this web form with editable table and local storage is a versatile and powerful online data management tool. With its customization capabilities, local storage, fullscreen button, and ease of use, it's perfect for monitoring centers, government agencies, and companies with tracking and recording needs.
