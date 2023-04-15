@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="icon" type="image/ico" href="images/icono-principal.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="CRUD dinamico con HTMLS, CSS and JS">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:600&display=swap" rel="stylesheet">
+    <title>REGISTRO DE NOVEDADES</title>
+</head>
+<body>
+<header class="header" id="header">
+  <figure class="logo">
+    <img src="images/logo.png" height="150" alt="Logo de la pagina" />
+  </figure>
+  <div class="button-container">
+    <div class="button" onclick="toggleFullScreen()">EXPANDIR PANTALLA</div>
+  </div>
+</header>
+<br/>
+            <form onsubmit="event.preventDefault();onSubmit();" autocomplete="off">
+              <div class="tablita">
+                <table class="tabla" id="tabla">
+                  <thead>
+                    <tr>
+                      <th>ABONADO</th>
+                      <th>CLIENTE</th>
+                      <th class="novedad">NOVEDAD</th>
+                      <th>FECHA DE INICIO</th>
+                      <th>FECHA DE TERMINO</th>
+                      <th>ACCIONES</th>
+                    </tr>
+                  </thead>
+                    <tbody>
+      
+                    </tbody>
+                </table>
+              </div>
+              <br/>
+              <br/>
+              <div class="caja">
+                <div>
+                  <label for="abo">ABONADO</label>
+                  <input type="text" id="abo" placeholder="Escriba aquí" required>
+                </div>
+                <div>
+                  <label for="cli">CLIENTE</label>
+                  <input type="text" id="cli" placeholder="Escriba aquí" required>
+                </div>
+                <div>
+                  <label for="nov">NOVEDAD</label>
+                  <textarea id="nov" placeholder="Escriba aquí" required></textarea>
+                </div>
+                <div>
+                  <label for="fei">FECHA DE INICIO</label>
+                  <input type="date" id="fei" placeholder="Escriba aquí" required>
+                </div>
+                <div>
+                  <label for="fet">FECHA DE TÉRMINO</label>
+                  <input type="date" id="fet" placeholder="Escriba aquí" required>
+                </div>
+              </div>
+              <br/>
+              <input class="submit" type="submit" value="Escribir">
+              </form>
+        <br/>
+        <br/>
+        </div>
+        <div style="text-align: center; font-weight: bold; font-family: Arial;">
+          DISEÑADOR POR CAMILO NIETO, CHILE,<br>
+          ESCRÍBENOS A INFO@PAGINASWEB1.CL PARA MÁS DESARROLLOS DE ESTE TIPO
+      </div>
+</body>
+<script type="text/javascript" src="js/crud.js"></script>
+</html>
