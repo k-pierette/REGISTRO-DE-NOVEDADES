@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  .tablita {
+    display: inline-block;
+  }
+  
+  .tabla {
+    border-collapse: collapse;
+    font-family: 'Quicksand', sans-serif;
+    width: 1200px; /* Cambiado de 100% a auto */
+  }
+  
+  table tr th {
+    border: 1px solid #D5D9D9;
+    width: 100px;
+    height: 25px;
+    color: white;
+    background-color: #ff0000;
+  }
+  
+  td {
+    border: 1px solid #D5D9D9;
+    width: 100px;
+    height: 25px;
+  }
+  
+  .header {
+  display :flex ; 
+  align-items :center ; 
+  justify-content :space-between ; 
+  padding :0 20px ; /* Agrega un relleno de 20px a los lados del encabezado */
+  }
+  
+  .caja {
+  display :block ; 
+  max-width :400px ; 
+  margin :0 auto ; 
+  }
+  
+  .caja div {
+  display :flex ; 
+  align-items :left ; 
+  margin-bottom :10px ; 
+  }
+  
+  .caja label {
+  font-family :'Quicksand', sans-serif ; 
+  flex-basis :20% ; 
+  text-align :left ; 
+  margin-right :10px ; 
+  }
+  
+  .caja input,
+  .caja textarea {
+  flex-basis :50% ; 
+  }
+  
+  .submit {
+  width :8em ;  
+  height :2em ;  
+  font-family :'Quicksand', sans-serif ;  
+  color :white ;  
+  background-color :#ff0000 ;  
+  border-radius :10px ; /* Bordes redondeados en 10px */
+  border :none ; 
+  margin-top :20px ; /* Separación de la caja de texto */
+  }
+  
+  /* Estilos para el boton */
+  .button {
+  background-color:red; /* Fondo rojo */
+  color:white; /* Texto blanco */
+  border-radius:10px; /* Bordes redondeados en 10px */
+  position:relative; /* Posición relativa al contenedor */
+  padding:10px 20px; 
+  margin-top:20px; /* Separación del logo */
+  width:auto; /* El ancho del botón se ajusta al tamaño del texto */
+  }
+  
+  /* Estilos para el botón cuando se le hace clic */
+  .button:hover{
+  background-color:#8B0000; /* Cambiar el fondo a un tono más oscuro de rojo */
+  }
+  
+  .button-container {
+  flex-basis:33.33%; /* Ocupar un tercio del ancho del contenedor */
+  }
+   
+  
+  .logo{
+  text-align:center;
+  flex-basis:33.33%; /* Ocupar un tercio del ancho del contenedor */
+  }
+  
+  
+  .button{
+  font-family:'Quicksand', sans-serif;
+  
+  padding :10px 20px ;
+  margin-top :20px ;
+  }
+  
+  .button-container{
+  text-align:right ;
+  display:flex ;
+  }
+  
+  
+  @media (max-width :600px) { 
+  .header{
+  flex-direction :column ; /* Los elementos se ajustan en una sola columna */ 
+  align-items :center ; /* Centrar los elementos horizontalmente */ 
+  } 
+  
+  .button-container,
+  .logo{
+  flex-basis :100% ; /* Ocupar el ancho completo del contenedor */ 
+  margin-bottom :20px ; /* Separación entre elementos */ 
+  } 
+  
+  .button{
+  margin-top :0 ;
+  } 
+  }
+
+  .novedad {
+    width: 300px;
+  }
+
+  table tr th:not(.novedad) {
+    width: calc((1200px - 300px) / 5);
+  }
