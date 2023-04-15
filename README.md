@@ -19,7 +19,7 @@ La interfaz de usuario es intuitiva y fácil de usar, lo que permite a los usuar
 
 En resumen, este formulario web con tabla editable y almacenamiento local es una herramienta versátil y potente para la gestión de datos en línea. Con su capacidad de personalización, almacenamiento local, botón de pantalla completa y su facilidad de uso, es perfecto para centrales de monitoreo, agencias de gobierno, y empresas con necesidades de control y registro de novedades.
 
-IMAGENES:
+IMAGENES DE PROYECTO CARGADO (index.html):
 
 ![image](https://user-images.githubusercontent.com/129064267/232253583-496794b6-a317-4b68-9ed4-286e9144efd5.png)
 
