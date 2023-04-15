@@ -1,7 +1,7 @@
 # REGISTRO-DE-NOVEDADES
 Formulario web con tabla editable y altamente personalizable, almacenamiento local  sin la necesidad de vincular una base de datos. Ideal para centrales de monitoreo, agencias gubernamentales y empresas que requieran un registro de novedades. Botón de pantalla completa para visualización detallada. Interfaz intuitiva y fácil de usar. Versátil y potente.
 
-DONACIONES AL CREADOR DE ESTA PODEROSA HERRAMIENTA:
+<p style="font-family: Arial; font-size: 20px;"><strong>DONACIONES AL CREADOR DE ESTA PODEROSA HERRAMIENTA:</strong></p>
 
 BINANCE BTC: 138KjGjx7LqyNWAZgctM9WhywARwbzPVQQ
 BINANCE BNB Smart Chain (BEP20): 0x56e002ea1ab99f4cafaaf05a24cb454638bf6a69
