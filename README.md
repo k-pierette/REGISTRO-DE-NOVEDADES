@@ -1,7 +1,7 @@
 # REGISTRO-DE-NOVEDADES
 Formulario web con tabla editable y altamente personalizable, almacenamiento local  sin la necesidad de vincular una base de datos. Ideal para centrales de monitoreo, agencias gubernamentales y empresas que requieran un registro de novedades. Botón de pantalla completa para visualización detallada. Interfaz intuitiva y fácil de usar. Versátil y potente.
 
-<p style="font-family: Arial; font-size: 20px;"><strong>DONACIONES AL CREADOR DE ESTA PODEROSA HERRAMIENTA:</strong></p>
+<p style="font-family: Arial; font-size: 30px;"><strong>DONACIONES AL CREADOR DE ESTA PODEROSA HERRAMIENTA:</strong></p>
 
 <ul>
   <li>BINANCE BTC: 138KjGjx7LqyNWAZgctM9WhywARwbzPVQQ</li>
