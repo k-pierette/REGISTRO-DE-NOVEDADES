@@ -11,6 +11,7 @@ Formulario web con tabla editable y altamente personalizable, almacenamiento loc
   <li>BINANCE USDT BNB Smart Chain (BEP 20): 0x56e002ea1ab99f4cafaaf05a24cb454638bf6a69</li>
 </ul>
 
+<h2 style="font-family: Arial;"><strong>DETALLE:</strong></h2>
 El formulario web que te describo es una poderosa herramienta para la gestión de datos en línea. Se trata de una aplicación con una tabla editable que te permite organizar y manipular datos de manera eficiente y fácil. La tabla es totalmente personalizable, lo que significa que puedes ajustarla a tus necesidades específicas.
 
 Una de las características destacadas de este formulario es su capacidad de almacenamiento local. Esto significa que los datos que ingreses en la tabla se guardarán en el dispositivo en el que estés utilizando la aplicación, lo que garantiza una mayor seguridad y privacidad. Además, también puedes hacer copias de seguridad de los datos almacenados en la nube para asegurarte de que tus datos estén siempre protegidos.
