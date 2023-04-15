@@ -3,9 +3,11 @@ Formulario web con tabla editable y altamente personalizable, almacenamiento loc
 
 <p style="font-family: Arial; font-size: 20px;"><strong>DONACIONES AL CREADOR DE ESTA PODEROSA HERRAMIENTA:</strong></p>
 
-BINANCE BTC: 138KjGjx7LqyNWAZgctM9WhywARwbzPVQQ
-BINANCE BNB Smart Chain (BEP20): 0x56e002ea1ab99f4cafaaf05a24cb454638bf6a69
-BINANCE USDT BNB Smart Chain (BEP 20): 0x56e002ea1ab99f4cafaaf05a24cb454638bf6a69
+<ul>
+  <li>BINANCE BTC: 138KjGjx7LqyNWAZgctM9WhywARwbzPVQQ</li>
+  <li>BINANCE BNB Smart Chain (BEP20): 0x56e002ea1ab99f4cafaaf05a24cb454638bf6a69</li>
+  <li>BINANCE USDT BNB Smart Chain (BEP 20): 0x56e002ea1ab99f4cafaaf05a24cb454638bf6a69</li>
+</ul>
 
 El formulario web que te describo es una poderosa herramienta para la gestión de datos en línea. Se trata de una aplicación con una tabla editable que te permite organizar y manipular datos de manera eficiente y fácil. La tabla es totalmente personalizable, lo que significa que puedes ajustarla a tus necesidades específicas.
 
