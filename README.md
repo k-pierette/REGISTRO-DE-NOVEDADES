@@ -1,4 +1,6 @@
 # REGISTRO-DE-NOVEDADES
+
+<h2 style="font-family: Arial;"><strong>RESUMEN:</strong></h2>
 Formulario web con tabla editable y altamente personalizable, almacenamiento local  sin la necesidad de vincular una base de datos. Ideal para centrales de monitoreo, agencias gubernamentales y empresas que requieran un registro de novedades. Botón de pantalla completa para visualización detallada. Interfaz intuitiva y fácil de usar. Versátil y potente.
 
 <h2 style="font-family: Arial;"><strong>DONACIONES AL CREADOR DE ESTA PODEROSA HERRAMIENTA:</strong></h2>
